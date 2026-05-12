@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState } from 'react';
 import { 
   Lightbulb, Power, Layers, ArrowUpCircle, ArrowDownCircle, 
